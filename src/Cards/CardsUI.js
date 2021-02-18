@@ -1,6 +1,7 @@
 import React from 'react';
 import './card-style.scss';
 
+
 //Re-usable: CardTemplate Component recieves the Props from Cards Component
 //Cotains the structure of the Card
 //Recieved Props binded to the respective elements

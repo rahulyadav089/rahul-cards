@@ -2,7 +2,7 @@ import React from 'react';
 import CardTemplate from '../Cards/CardsUI';
 import './card-style.scss';
 
-//Child Component: Cards recieves props from App Component
+//Child Component:Cards recieves props from App Component
 const Cards = ({ items }) => {
     // Object rendereditem containing the list of items created using map method
     //Div container with BootStrap classes to target Mobile:xs , Tablet:sm, and Desktop:md  Screens

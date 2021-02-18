@@ -1,6 +1,6 @@
 import Cards from './Cards/Cards';
 
-//Master Component
+//Master: Parent Component through which props will be passed down child components
 const App = () => {
   //Dummy JSON data for the content to be shown
   const items = [
